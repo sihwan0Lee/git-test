@@ -4,7 +4,7 @@
 
 ### git init ༼◉_◉ ༽ 
 
-git init을 쳐보자.. Initialized empty Git repository in [경로] 이렇게 한 줄이 나오고, 프로젝트 폴더 안에 .git이라는 숨겨진 폴더가 생성된다. 만약 폴더가 안 보인다면, 보기에서 숨겨진 파일 보기를 체크하자.이제 여러분은 이 프로젝트에 Git을 사용할 수 있다
+	git init을 쳐보자.. Initialized empty Git repository in [경로] 이렇게 한 줄이 나오고, 프로젝트 폴더 안에 .git이라는 숨겨진 폴더가 생성된다. 만약 폴더가 안 보인다면, 보기에서 숨겨진 파일 보기를 체크하자.이제 여러분은 이 프로젝트에 Git을 사용할 수 있다
 
 ### git branch ༼;´༎ຶ + ༎ຶ༽ 
 	등록된 브랜치 목록을 보여준다
